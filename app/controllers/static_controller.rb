@@ -8,3 +8,5 @@ class StaticController < ApplicationController
         render 'about'
     end
 end 
+
+# yoooo i didnt realize I needed a static folder this whole time and got super pissed lmao
